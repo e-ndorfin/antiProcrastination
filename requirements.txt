@@ -1,1 +1,5 @@
 tkinter
+time 
+subprocess
+sys
+os
